@@ -17,6 +17,9 @@
 - 📲 Intérêt pour la création de contenu et le montage vidéo
 - 📍 Île-de-France, France
 - 📬 lazimsarpro@gmail.com
+- 👔 www.linkedin.com/in/lazim-sar-9393b63a3
+
+
 
 ---
 
