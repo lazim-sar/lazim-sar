@@ -1,4 +1,4 @@
-<h1 align="center">Salutations, je m'appelle Lazim 👋</h1>
+<h1 align="center">Salutations, je suis Lazim 👋</h1>
 
 <p align="center">
   Actuellement étudiant en L1 Maths-Informatique · Université Paris-Saclay<br>
@@ -40,10 +40,10 @@
 
 | Projet | Description | Langage |
 |---|---|---|
-| [🖼️ Traitement d'image](https://github.com/lazimsar/traitement-image-cpp) | Filtres, conversion N&B, extraction de contours | C++ |
-| [🐜 Simulation de termites](https://github.com/lazimsar/simulation-termites-cpp) | Modélisation algorithmique d'une colonie | C++ |
-| [📊 Classification d'images](https://github.com/lazimsar/classification-images-python) | Extraction d'attributs, comparaison de classificateurs | Python |
-| [🐍 Projets Python perso](https://github.com/lazimsar/projets-python-perso) | Calculatrice, RPG, jeu du nombre mystère, dés | Python |
+| [🖼️ Traitement d'image](https://github.com/lazim-sar/traitement-image-cpp) | Filtres, conversion N&B, extraction de contours | C++ |
+| [🐜 Simulation de termites](https://github.com/lazim-sar/simulation-termites-cpp) | Modélisation algorithmique d'une colonie | C++ |
+| [📊 Classification d'images](https://github.com/lazim-sar/classification-images-python) | Extraction d'attributs, comparaison de classificateurs | Python |
+| [🐍 Projets Python perso](https://github.com/lazim-sar/projets-python-perso) | Calculatrice, RPG, jeu du nombre mystère, dés | Python |
 
 ---
 
@@ -56,6 +56,6 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazimsar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazimsar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lazim-sar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazim-sar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
